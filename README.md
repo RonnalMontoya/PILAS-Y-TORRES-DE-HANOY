@@ -1,4 +1,5 @@
 EXPLICACION DEL CODIGO:
+
 Verificación de paréntesis balanceados:
 Utilizamos una pila para empujar los caracteres de apertura ({, [, ( ).
 Cuando encontramos un carácter de cierre (}, ], )), verificamos que coincida con el último carácter en la pila.
